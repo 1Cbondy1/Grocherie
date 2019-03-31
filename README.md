@@ -1,4 +1,4 @@
-# UT Coding Boot Camp Team Project II
+# Coding Bootcamp at the University of Texas - Team Project II
 <img src="https://github.com/kylecom2000/Project2/blob/master/public/images/grocherie-text.png?raw=true" width="500">
 
 ## Overview
@@ -11,10 +11,10 @@ By hosting collaborative lists in a central digital location, Grocherie saves ti
 ## [Deployed on Heroku](https://grocherie.herokuapp.com/)
 
 ### Main Contributers
-* Kyle Bauer - Backend | Authentication
-* Colin Grant - Backend | Web Sockets
-* Clayton Bondy - Frontend | Design
-* Brian Duong - Frontend | Handlebars
+* Clayton Bondy - Frontend Dev & UX/UI Design
+* Brian Duong - Frontend & Handlebars
+* Kyle Bauer - Backend Dev & Authentication
+* Colin Grant - Backend Dev & Web Sockets
 
 ### Objectives
 * Node and Express ☑️ 
