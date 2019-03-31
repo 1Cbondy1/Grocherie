@@ -8,7 +8,7 @@ Actions performed are updated in real-time without having to refresh the app. On
 
 By hosting collaborative lists in a central digital location, Grocherie saves time and headaches by minimizing miscommunications and allows a single person to shop for everyone on their shared lists at once.
 
-## [Deployed on Heroku](https://grocherie.herokuapp.com/)
+## [Deployed on Heroku](https://1cbondy1.github.io/Grocherie/)
 
 ### Main Contributers
 * Clayton Bondy - Frontend Dev & UX/UI Design
